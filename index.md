@@ -1,5 +1,5 @@
 ---
-title: //Kima//
+title: Kima
 
 
 ---
